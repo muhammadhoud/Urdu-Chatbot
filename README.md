@@ -175,7 +175,7 @@ Despite working with data that could barely maintain sentence coherence, the mod
 
 ## 🚀 Live Demo
 
-**Try the chatbot:** [Your Streamlit URL]
+**Try the chatbot:** [https://urdu-chatbot-nrzkicdtrgvlvhvbd9ixbm.streamlit.app/]
 
 Experience RTL Urdu text generation in real-time. Type in Urdu (or Roman Urdu), and watch the Transformer extract meaning from minimal training signal!
 
